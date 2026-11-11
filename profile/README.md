@@ -13,7 +13,7 @@ OpenFinMind is an open research community at **The University of Hong Kong (HKU)
 **Selected Research**
 - **CogAlpha** — An LLM-driven framework combining financial reasoning and code-based evolutionary search for automated alpha discovery. [Paper](https://aclanthology.org/2026.acl-long.538/) · [PDF](https://aclanthology.org/2026.acl-long.538.pdf) · [Code](https://github.com/OpenFinMind/CogAlpha_Prompt) · ACL 2026.
 - **X-Alpha** — An AI Quant Researcher that integrates report-grounded financial knowledge and persistent discovery feedback into a closed-loop hypothesis-to-code research process. [Paper](https://arxiv.org/abs/2607.08332) · arXiv:2607.08332.
-- **FinForesight** — A diagnostic benchmark evaluating the financial forecasting capabilities of deep research systems across CN, US, and HK markets. [Paper](https://arxiv.org/abs/2611.01621) · [Code & Benchmark](https://github.com/OpenFinMind/FinForesight) · arXiv:2611.01621.
+- **FinForesight** — A diagnostic benchmark evaluating the financial forecasting capabilities of deep research systems across CN, US, and HK markets. [Paper](https://arxiv.org/abs/2611.01621) · [Code](https://github.com/OpenFinMind/FinForesight) · [Dataset](https://huggingface.co/datasets/OpenFinMind/FinForesight) · arXiv:2611.01621.
 - **MC-JEPA** — A market-conditioned joint-embedding predictive architecture that leverages realized market shocks during self-supervised training to learn asset-specific representations, improving financial return prediction, market exposure estimation, risk, and liquidity modeling. [Paper](https://arxiv.org/abs/2611.13572) · [Code](https://github.com/OpenFinMind/MC-JEPA) · arXiv:2611.13572.
 
 **Open Research & Resources**
